@@ -1,0 +1,22 @@
+{
+  "name": "moegi-onedark-pro",
+  "displayName": "Moegi Onedark Pro",
+  "description": "自用主题，扩展自Binaryify/OneDark-Pro，同时参考moegi-design/vscode-theme，针对Python语言优化",
+  "version": "0.0.1",
+  "publisher": "Jasyo",
+  "engines": {
+    "vscode": "^1.83.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Moegi Onedark Pro",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Moegi Onedark Pro-color-theme.json"
+      }
+    ]
+  }
+}
