@@ -1,12 +1,16 @@
 {
-  "name": "moegi-onedark-pro",
-  "displayName": "Moegi Onedark Pro",
-  "description": "自用主题，扩展自Binaryify/OneDark-Pro，同时参考moegi-design/vscode-theme，针对Python语言优化",
   "version": "0.0.1",
+  "name": "onedark-moegi-pro",
+  "displayName": "Onedark Moegi Pro",
+  "description": "自用主题，颜色方案来自Binaryify/OneDark-Pro，框架主题参考moegi-design/vscode-theme，并针对Python语言优化",
   "publisher": "Jasyo",
   "license": "MIT",
   "engines": {
     "vscode": "^1.83.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yaojia25/onedark-moegi-pro"
   },
   "categories": [
     "Themes"
