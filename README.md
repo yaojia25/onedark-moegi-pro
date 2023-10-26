@@ -1,16 +1,37 @@
-# moegi-onedark-pro README
+# Onedark Moegi Pro For VSCode
 
-## Working with Markdown
+Self-use custom theme for VS Code, color scheme reference [One Dark Pro](https://github.com/Binaryify/OneDark-Pro), dark themes reference [Moegi Theme](https://github.com/moegi-design/vscode-theme).
 
-You can author your README using Visual Studio Code. Here are some useful editor keyboard shortcuts:
+## Features
+- Similar to "One Dark Pro Darker" color shceme
+- Similar to "Moegi Dark" dark theme
+- Optimized for Python language
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux).
-* Toggle preview (`Shift+Cmd+V` on macOS or `Shift+Ctrl+V` on Windows and Linux).
-* Press `Ctrl+Space` (Windows, Linux, macOS) to see a list of Markdown snippets.
+## How to use
 
-## For more information
+**Package extensions to vsix file**
 
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+1. clone the project to local
+2. `cd` to the project folder
+3. install vsce use `npm install -g vsce`
+4. modify related files if you want to customize your own style
+5. package extensions use `vsce package`
+6. install the `.vsix` file in VSCode
 
-**Enjoy!**
+**Or**
+
+1. clone the project to local
+2. modify related files if you want to customize your own style
+3. copy folder into the `<user home>/.vscode/extensions` folder and restart Code
+
+## License
+
+[MIT](https://github.com/yaojia25/onedark-moegi-pro#MIT-1-ov-file)
+
+## Thanks
+
+- [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
+
+- [Moegi Theme](https://github.com/moegi-design/vscode-theme)
+
+  
