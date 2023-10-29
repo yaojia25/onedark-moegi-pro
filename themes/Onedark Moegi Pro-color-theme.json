@@ -92,7 +92,7 @@
 		"editor.findMatchBorder": "#66b395",
 		"searchEditor.findMatchBorder": "#66b395",
 		"editor.hoverHighlightBackground": "#ffffff10",
-		"editor.lineHighlightBackground": "#333333",
+		"editor.lineHighlightBackground": "#303030", // custom 333333
 		"editorLink.activeForeground": "#ff8787",
 		"editorWhitespace.foreground": "#ffffff12",
 		"editorIndentGuide.background1": "#ffffff12",
@@ -122,11 +122,14 @@
 		"diffEditor.insertedLineBackground": "#66b39530",
 		"diffEditor.removedLineBackground": "#ff878730",
 		// Editor widget colors
-		"editorWidget.border": "#ffffff2d", // custom new
+		"editorWidget.border": "#ffffff2d", // add ffffff2d
 		"editorWidget.background": "#181818", // custom 2a2a2a
+		"editorHoverWidget.foreground": "#aaaaaa",  // add
+		"editorSuggestWidget.border": "#ffffff2d", // add
 		"editorSuggestWidget.background": "#181818", // custom 202020
 		"editorSuggestWidget.selectedBackground": "#333333",
 		"editorStickyScrollHover.background": "#333333",
+		"editorSuggestWidgetStatus.foreground": "#cccccc", // add
 		// Peek view colors
 		"peekView.border": "#666666", // custom 666666
 		"peekViewEditor.background": "#333333", // custom 333333
