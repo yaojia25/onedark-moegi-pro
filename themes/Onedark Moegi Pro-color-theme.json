@@ -39,14 +39,14 @@
 		// Progress bar
 		"progressBar.background": "#ff8787",
 		// List and trees
-		"list.activeSelectionBackground": "#202020",
+		"list.activeSelectionBackground": "#232323", // custom 202020
 		"list.dropBackground": "#ffffff12",
 		"list.focusBackground": "#ffffff12",
 		"list.focusHighlightForeground": "#66b395",
 		"list.focusOutline": "#ffffff12",
 		"list.highlightForeground": "#66b395",
 		"list.hoverBackground": "#202020",
-		"list.inactiveSelectionBackground": "#202020",
+		"list.inactiveSelectionBackground": "#232323",  // custom 202020
 		"list.filterMatchBackground": "#66b39530",
 		"list.filterMatchBorder": "#66b395",
 		// Activity Bar
