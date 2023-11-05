@@ -264,7 +264,10 @@
 			"settings": {"foreground": "#ffffff4F"}
 		},
 		{
-			"scope": "keyword.operator.unpacking.parameter.python",
+			"scope": [
+				"keyword.operator.unpacking.parameter.python",
+				"keyword.operator.unpacking.arguments.python"
+			],
 			"settings": {"foreground": "#c678dd"}
 		},
 		// end
