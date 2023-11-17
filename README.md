@@ -30,8 +30,8 @@ Self-use custom theme for VS Code, color scheme reference [One Dark Pro](https:/
 
 ## Thanks
 
-- [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
+- [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) [V3.16.2](https://github.com/Binaryify/OneDark-Pro/releases/tag/3.16.2)
 
-- [Moegi Theme](https://github.com/moegi-design/vscode-theme)
+- [Moegi Theme](https://github.com/moegi-design/vscode-theme) [V0.6.3](https://github.com/moegi-design/vscode-theme/releases/tag/v0.6.3)
 
-  
+
