@@ -19,12 +19,17 @@
   "contributes": {
     "themes": [
       {
-        "label": "Onedark Moegi Pro",
         "label": "OneMoegi Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Onedark Moegi Pro-color-theme.json"
         "path": "./themes/onemoegi-dark-color-theme.json"
       }
-    ]
+    ],
+    "productIconThemes": [
+			{
+				"id": "fluent-jetbrains-icons",
+				"label": "Fluent Jetbrains Icons",
+				"path": "./productions/fluent-jetbrains-icons.json"
+			}
+		]
   }
 }
