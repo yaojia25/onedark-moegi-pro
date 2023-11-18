@@ -1,7 +1,8 @@
 {
-  "name": "onedark-moegi-pro",
-  "displayName": "Onedark Moegi Pro",
-  "description": "自用主题，颜色方案来自Binaryify/OneDark-Pro，框架主题参考moegi-design/vscode-theme，并针对Python语言优化",
+  "name": "interstellar-theme",
+  "displayName": "Interstellar Themes",
+  "description": "自用主题",
+  "icon": "icon.png",
   "version": "0.0.3",
   "publisher": "Jasyo",
   "license": "MIT",
