@@ -221,6 +221,7 @@
 		"module:python": "#c26921",
 		"parameter:python": "#DDDDDD",
 		"selfParameter:python": "#e5c07b",
+		"clsParameter:python": "#e5c07b",
         "*.typeHint:python": "#56B6C2",
 		// end
 
@@ -263,7 +264,10 @@
 			"settings": {"foreground": "#ffffff4F"}
 		},
 		{
-			"scope": "keyword.operator.unpacking.parameter.python",
+			"scope": [
+				"keyword.operator.unpacking.parameter.python",
+				"keyword.operator.unpacking.arguments.python"
+			],
 			"settings": {"foreground": "#c678dd"}
 		},
 		// end
